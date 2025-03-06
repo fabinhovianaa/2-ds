@@ -1,8 +1,28 @@
 .titulo{
- img{
-    width: 2000px;
-    
-    
+ h1{
+    background-color: brown;
+    text-align:center;
+    padding-top:15px;
+    padding-bottom:15px;
+    border-radius:10px;  
  }
-
 }   
+.caracteristicas{
+   h2{
+    text-align: center;
+   }
+p{
+   text-align: center;
+   color:brown;
+   font-weight: bold;
+}
+img{
+margin-left: 20%;
+} 
+}
+
+hr{
+   border: 2px solid;
+   border-color: brown;
+}
+.
