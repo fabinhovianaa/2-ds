@@ -1,11 +1,11 @@
 .titulo{
    h1{
-    background-color: brown;
+    background-color: green;
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 10px;  
- }
+     }
 }   
 .caracteristicas{
    h2{
@@ -15,7 +15,7 @@
 p{
 
    text-align: center;
-   color:brown;
+   color:rgb(239, 34, 34);
    font-weight: bold;
 }
  img{
@@ -33,7 +33,7 @@ hr{
 }
 .Ingredientes{
    h3{
-      text-align: left ;
+   text-align: left ;
    font-size: 22px;
 }
 ul{
@@ -48,6 +48,4 @@ ul{
    font-size: 22px;
 
    }
-
- ol{}
 }
