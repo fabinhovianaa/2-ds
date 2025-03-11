@@ -1,28 +1,53 @@
 .titulo{
- h1{
+   h1{
     background-color: brown;
-    text-align:center;
-    padding-top:15px;
-    padding-bottom:15px;
-    border-radius:10px;  
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;  
  }
 }   
 .caracteristicas{
    h2{
     text-align: center;
+
    }
 p{
+
    text-align: center;
    color:brown;
    font-weight: bold;
 }
-img{
-margin-left: 20%;
-} 
+ img{
+   width: 350px;
+   position: center;
+   margin-left: 40%;
+}
+
+   
 }
 
 hr{
    border: 2px solid;
    border-color: brown;
 }
-.
+.Ingredientes{
+   h3{
+      text-align: left ;
+   font-size: 22px;
+}
+ul{
+   margin-left:0%;
+   font-weight: bold;
+  }
+}
+
+.modoPreparo{
+   h3{
+   text-align: center;
+   font-size: 22px;
+
+   }
+
+ ol{}
+}
