@@ -1,9 +1,9 @@
 .titulo{
    h1{
-    background-color: green;
+    background-color: rgba(210, 50, 22, 0.534);
     text-align: center;
     padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
     border-radius: 10px;  
      }
 }   
@@ -15,13 +15,13 @@
 p{
 
    text-align: center;
-   color:rgb(239, 34, 34);
+   color:rgb(0, 0, 0);
    font-weight: bold;
 }
  img{
-   width: 350px;
+   width: 500px;
    position: center;
-   margin-left: 40%;
+   margin-left: 35%;
 }
 
    
